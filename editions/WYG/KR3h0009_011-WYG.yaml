@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3h0009/WYG/v1/juan/11
+seq: 11
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 厯代名畫記馬氏經籍志云名盡獵精六卷唐張彦逺纂記史皇以降至唐畫工名姓及論畫法并装背裭軸之式鑒别閲玩之方今此書罕傳即彦逺自叙亦止云厯代名畫記而不及其名矣大略相似耳既讀兹集叙述畫之興廢自董卓帷囊而外侯景煨燃之餘其裁入江陵者又投後閣舍人之一炬能無雲烟過眼之嘆然然三百七十餘人垂不朽於天壤間即謂張氏千廂萬軸至今存可也海雲毛晉識
+  hash: sha256:3ad532ff70fe8e382c58e316c94cd8f5f8e6f3ba7ecc9ce4bfb0a560e65f87aa
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3h0009_WYG_011-1a, image: WYG0812/WYG0812-0356a.png}
+metadata:
+  title: 歷代名畫記
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:13:48.267739'
+  juan_title: 跋
+  source:
+    repository: kanripo
+    path: KR3h0009/KR3h0009_011.txt
+hash: sha256:1d6b10edbcd4db3f58a7390bace2010715a2d7078de727c3e3b9f18cbff5f27a
